@@ -6,5 +6,5 @@ metadata:
 spec:
   subscriptions:
   - image:
-      repoURL: ghcr.io/akuity/guestbook
+      repoURL: ghcr.io/souvroy20/guestbook
       imageSelectionStrategy: SemVer
